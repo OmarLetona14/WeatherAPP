@@ -1,0 +1,16 @@
+@import 'variables';
+
+
+.search{
+    margin-top: 1.5rem;
+}
+.search__input {
+    padding: 1rem;
+    border-radius: 50px;
+    box-shadow: 1px;
+    width: 100%;
+    &:focus{
+        outline-color: $secondary-color;
+    }
+    
+}

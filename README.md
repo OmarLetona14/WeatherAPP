@@ -1,11 +1,11 @@
-# Angular Boilerplate
-Boilerplate para trabajar con Angular, este proyecto listo para trabajar las pruebas unitarias con [Jestjs](https://jestjs.io) y eslint. 
+# Angular weatherApp
+weatherApp para trabajar con Angular, este proyecto listo para trabajar las pruebas unitarias con [Jestjs](https://jestjs.io) y eslint. 
 
 Este proyecto fue generado con [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 ## Installation
 
-* `$ git clone https://github.com/bezael/angular-boilerplate.git`
-* `$ cd angular-boilerplate/`
+* `$ git clone https://github.com/bezael/angular-weatherApp.git`
+* `$ cd angular-weatherApp/`
 * `$ npm install`
 * `$ ng serve`
 ## Development server
